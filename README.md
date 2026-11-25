@@ -135,7 +135,7 @@ The full project report, with derivations, the literature review and the complet
 
 ## Reference
 
-Field data used for validation: Ogbonnaya, I.O. (2019). *An evaluation of ground pipe ventilation and overnight radiant cooling to displace air conditioning in Warm Humid South Eastern Nigeria.* PhD thesis. *[add awarding institution]*
+Field data used for validation: Ogbonnaya, I.O. (2019). *An evaluation of ground pipe ventilation and overnight radiant cooling to displace air conditioning in Warm Humid South Eastern Nigeria.* PhD thesis. University of Strathclyde, Glasgow.
 
 ## License
 
