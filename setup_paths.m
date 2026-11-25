@@ -1,0 +1,13 @@
+%SETUP_PATHS  Add the project folders to the MATLAB path.
+%   Run once per MATLAB session. It also changes the current folder to the
+%   repository root, because the scripts write their outputs to results/
+%   relative to the current folder.
+
+repo_root = fileparts(mfilename('fullpath'));
+addpath(fullfile(repo_root, 'config'), ...
+        genpath(fullfile(repo_root, 'src')), ...
+        fullfile(repo_root, 'validation'), ...
+        fullfile(repo_root, 'tests'), ...
+        fullfile(repo_root, 'analysis'));
+cd(repo_root);
+fprintf('Project folders added to the path. Current folder: %s\n', repo_root);

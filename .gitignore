@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+*.fig
+*.mat
+
+# Generated report (regenerate with analysis/generate_html_report.m)
+results/report/*.html
+
+# Documents are not part of this repository
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,63 @@
+BASELINE leave-on coin outcomes (seed = 2025, prob = 0.50)
+NOTE: identical for every HVAC type -- occupancy/coin RNG does not depend on p.hvac_type.
+
+Season: hot
+  Day 1 : leave-on  (13.1 hours)
+  Day 2 : leave-on  (11.6 hours)
+  Day 3 : OFF as normal
+  Day 4 : leave-on  (11.7 hours)
+  Day 5 : leave-on  (11.3 hours)
+  Day 6 : OFF as normal
+  Day 7 : leave-on  (6.5 hours)
+  Day 8 : OFF as normal
+  Day 9 : OFF as normal
+  Day 10 : OFF as normal
+  Day 11 : leave-on  (11.0 hours)
+  Day 12 : leave-on  (13.7 hours)
+  Day 13 : leave-on  (9.2 hours)
+  Day 14 : OFF as normal
+  Day 15 : leave-on  (12.1 hours)
+  Day 16 : leave-on  (11.6 hours)
+  Day 17 : OFF as normal
+  Day 18 : leave-on  (12.7 hours)
+  Day 19 : OFF as normal
+  Day 20 : OFF as normal
+  Day 21 : leave-on  (8.6 hours)
+  Day 22 : leave-on  (13.4 hours)
+  Day 23 : leave-on  (12.4 hours)
+  Day 24 : OFF as normal
+  Day 25 : leave-on  (12.8 hours)
+  Day 26 : OFF as normal
+  Day 27 : leave-on  (7.5 hours)
+  Day 28 : leave-on  (9.3 hours)
+
+Season: rain
+  Day 1 : leave-on  (13.1 hours)
+  Day 2 : leave-on  (11.6 hours)
+  Day 3 : OFF as normal
+  Day 4 : leave-on  (11.7 hours)
+  Day 5 : leave-on  (11.3 hours)
+  Day 6 : OFF as normal
+  Day 7 : leave-on  (6.5 hours)
+  Day 8 : OFF as normal
+  Day 9 : OFF as normal
+  Day 10 : OFF as normal
+  Day 11 : leave-on  (11.0 hours)
+  Day 12 : leave-on  (13.7 hours)
+  Day 13 : leave-on  (9.2 hours)
+  Day 14 : OFF as normal
+  Day 15 : leave-on  (12.1 hours)
+  Day 16 : leave-on  (11.6 hours)
+  Day 17 : OFF as normal
+  Day 18 : leave-on  (12.7 hours)
+  Day 19 : OFF as normal
+  Day 20 : OFF as normal
+  Day 21 : leave-on  (8.6 hours)
+  Day 22 : leave-on  (13.4 hours)
+  Day 23 : leave-on  (12.4 hours)
+  Day 24 : OFF as normal
+  Day 25 : leave-on  (12.8 hours)
+  Day 26 : OFF as normal
+  Day 27 : leave-on  (7.5 hours)
+  Day 28 : leave-on  (9.3 hours)
+
